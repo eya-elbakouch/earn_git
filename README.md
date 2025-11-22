@@ -1,4 +1,4 @@
-#Réponse au question 
+#Réponse aux questions 
 ## question 1
 J'ai utilisé la coomande mkdir pour créer un dossier dans le bureau de mon ordinateur
 
