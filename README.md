@@ -34,6 +34,23 @@ création de fichier fourth.txt
 ![fourth](/captures/fourthh.jpg)
 
 ## question 9
+ajouter le fichier fourth
+
+![addd](/captures/addfourth.jpg)
+
+## question 10
+écrire un commentaire 
+
+![commit](/captures/commitfourth.jpg)
+
+## question 11
+suppression de fichier third 
+
+![supp](/captures/suppp.jpg)
+
+## question 12
+
+
 
 
 
